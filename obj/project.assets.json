@@ -3160,11 +3160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/farhan/Desktop/tasks/MyWebApiProject/MyWebApiProject.csproj",
+      "projectUniqueName": "/home/farhan/Desktop/tasks/Api + blazer/MyWebApiProject/MyWebApiProject.csproj",
       "projectName": "MyWebApiProject",
-      "projectPath": "/home/farhan/Desktop/tasks/MyWebApiProject/MyWebApiProject.csproj",
+      "projectPath": "/home/farhan/Desktop/tasks/Api + blazer/MyWebApiProject/MyWebApiProject.csproj",
       "packagesPath": "/home/farhan/.nuget/packages/",
-      "outputPath": "/home/farhan/Desktop/tasks/MyWebApiProject/obj/",
+      "outputPath": "/home/farhan/Desktop/tasks/Api + blazer/MyWebApiProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/farhan/.nuget/NuGet/NuGet.Config"

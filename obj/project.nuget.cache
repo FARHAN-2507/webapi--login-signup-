@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hOrsWsr2bXyr6rKZoX/rjVjb82W4UbuCKgxtTOp53/0kPTJ/QdL8ysknJg99Gitihd2ZL2qIz+xgWmV9DDtxPw==",
+  "dgSpecHash": "HR67DPPMbgGrwBqHiMQrvnhUFVU8rWaFw1s7LekCHhZWsdjUsBrDVnnDo1FxjFtwtJaN/VT7xNVkZ6E6wdlgmA==",
   "success": true,
-  "projectFilePath": "/home/farhan/Desktop/tasks/MyWebApiProject/MyWebApiProject.csproj",
+  "projectFilePath": "/home/farhan/Desktop/tasks/Api + blazer/MyWebApiProject/MyWebApiProject.csproj",
   "expectedPackageFiles": [
     "/home/farhan/.nuget/packages/bcrypt.net-next/4.2.0/bcrypt.net-next.4.2.0.nupkg.sha512",
     "/home/farhan/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
